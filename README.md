@@ -8,4 +8,5 @@
 - Starte prosjektet ved å skrive *pnpm dev*
 - Terminalen vil vise en lokal nettadresse som da vil være *http://localhost:5173/*
 
+> mvh vilma
 
