@@ -1,6 +1,6 @@
 # Dette er mitt prosjekt om en nettside bygget med Vite og Terminalen.
 
-Mine mål
+## Mine mål
 
 ## Før du starter:
 - Node.js og pnpm må være installert 
