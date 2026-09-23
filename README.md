@@ -1,6 +1,9 @@
 # Dette er mitt prosjekt om en nettside bygget med Vite og Terminalen.
 
-## Mine mål
+## Mine mål:
+- Forstå og lære å bruke terminalen 
+- Få til en egen nettside 
+- Ha en git historikk som er forståelig for både meg og andre
 
 ## Før du starter:
 - Node.js og pnpm må være installert 
